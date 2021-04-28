@@ -1,5 +1,5 @@
 Yooo! 
-Je suis Déodorant, maisvous pouvez m'appeler Deo (¬‿¬)
+Je suis Déodorant, mais vous pouvez m'appeler Deo (¬‿¬)
 
 Je suis un jeune français passionné d'informatique, dev, machine learning, cryptomonnaies...
 Bref t'as capté j'aime bien les nouvelles technologies
