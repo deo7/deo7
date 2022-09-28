@@ -18,15 +18,6 @@
   
 <hr>
   
-<h3 align="center">Contact me</h3> 
-<ul>
-  <li>By mail: deodorantdev@protonmail.com</li>
-  <li>By Discord: Déodorant#7144</li>
-</ul>
-  <!-- <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
-
-<hr>
-  
 <h3 align="center">Skills</h3>
   <div align="center">
     <img align="center" style="margin: 15px;" alt="HTML" height="55" width="55" src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2011/01/html5-logo-1.png">
@@ -39,7 +30,14 @@
   </div>
   
 <hr>
-
+ 
+<h3 align="center">Contact me</h3> 
+<ul>
+  <li>By mail: deodorantdev@protonmail.com</li>
+  <li>By Discord: Déodorant#7144</li>
+</ul>
+  <!-- <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
+<br/>
 <img align="center" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=deo7&repo=deo7&countColorcountColor&countColor=%FFFFFF"/>
 <br/>
 <p>© Lacostar91</p>
